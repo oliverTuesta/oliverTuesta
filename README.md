@@ -23,10 +23,10 @@
     <img src="https://skillicons.dev/icons?i=linux,git,github,javascript,github,kotlin,neovim" />
   </a>
 </p>
+
+<p align="center">
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Oliver_Tuesta)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://open.spotify.com/user/31qkwll5fdhjcaeqb7oqear42c5q)
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://www.linkedin.com/in/oliver-jes%C3%BAs-tuesta-yoplac-533ba4200/)
-<p align="center">
-
 </p>
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />

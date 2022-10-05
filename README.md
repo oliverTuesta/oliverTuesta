@@ -5,7 +5,7 @@
 -   👀 I’m interested in web development & IA
 -   🌱 I’m currently learning python and web development
 -   📫 How to reach me: https://twitter.com/Oliver_Tuesta
--   ❤️ I love reading, competitive programming and linux
+-   ❤️ I love reading, drawing, competitive programming and linux
 -   btw I use Arch <img
     src="https://raw.githubusercontent.com/oliverTuesta/oliverTuesta/main/resources/arch.png" width="20" height="20"/>
 

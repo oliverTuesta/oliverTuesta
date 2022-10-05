@@ -11,7 +11,7 @@
 
 ### 📈 GitHub stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oliverTuesta"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oliverTuesta"/>
 
 ### :wrench: Languages and tools
 

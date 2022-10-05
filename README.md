@@ -8,4 +8,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=oliverTuesta&show_icons=true&theme=tokyonight"/>
 
-<img src="https://raw.githubusercontent.com/oliverTuesta/oliverTuesta/main/resources/penguin.jpg">
+<img src="https://raw.githubusercontent.com/oliverTuesta/oliverTuesta/main/resources/penquin.jpg">

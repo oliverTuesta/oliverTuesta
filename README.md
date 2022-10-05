@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/oliverTuesta/oliverTuesta/main/resources/penguin.jpg"/>
-
 ## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
 
 -   :penguin: Hi, I’m @oliverTuesta

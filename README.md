@@ -13,7 +13,7 @@
 
 ### 📈 GitHub stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverTuesta&layout=compact&theme=catppuccin"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oliverTuesta"/>
 
 ### :wrench: Languages and tools
 

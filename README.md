@@ -6,4 +6,4 @@
 
 ### 📈 GitHub stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=olivertuesta&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=oliverTuesta&show_icons=true"/>

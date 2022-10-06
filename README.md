@@ -1,13 +1,15 @@
 ## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
 
--   :penguin: Hi, I’m @oliverTuesta
+-   :penguin: Hi, I\u2019m @oliverTuesta
 -   :robot: Software engineer student from Peru
--   👀 I’m interested in web development & IA
--   🌱 I’m currently learning python and web development
--   📫 How to reach me: https://twitter.com/Oliver_Tuesta
--   ❤️ I love reading, drawing, competitive programming and linux
--   btw I use Arch <img
-    src="https://raw.githubusercontent.com/oliverTuesta/oliverTuesta/main/resources/arch.png" width="20" height="20"/>
+-   \U0001f440 I\u2019m interested in web development & IA
+-   \U0001f331 I\u2019m currently learning python and web development
+-   \U0001f4eb How to reach me:
+    <a href="https://twitter.com/Oliver_Tuesta">@Oliver_Tuesta</a>
+-   \u2764\ufe0f I love reading, drawing, competitive programming and linux
+-   <img
+    src="https://raw.githubusercontent.com/oliverTuesta/oliverTuesta/main/resources/arch.png"
+    width="20" height="20"/> btw I use Arch
 
 ### \U0001f4c8 GitHub stats
 

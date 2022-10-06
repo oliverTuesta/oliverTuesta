@@ -1,9 +1,9 @@
 ## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
 
--   :penguin: Hi, I'm @oliverTuesta
+-   :penguin: Hi, I'm Oliver Tuesta
 -   :robot: Software engineer student from Peru
--   :eyes: I\u2019m interested in web development & IA
--   :zap: I\u2019m currently learning python and web development
+-   :eyes: I'm interested in web development & IA
+-   :zap: I'm currently learning python and web development
 -   :mailbox: I'm also on twitter
     <a href="https://twitter.com/Oliver_Tuesta">@Oliver_Tuesta</a>
 -   :hearts: I love reading, drawing, competitive programming and linux

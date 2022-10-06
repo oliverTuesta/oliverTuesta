@@ -11,7 +11,7 @@
     src="https://raw.githubusercontent.com/oliverTuesta/oliverTuesta/main/resources/arch.png"
     width="20" height="20"/> btw I use Arch
 
-### \U0001f4c8 GitHub stats
+### :chart_with_upwards_trend: GitHub stats
 
 <p align="center"> 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliverTuesta&theme=dracula"/>
